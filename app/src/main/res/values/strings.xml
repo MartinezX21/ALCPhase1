@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="str_welcome_text">Welcome to ALC 4.0</string>
+    <string name="str_profile">My Profile</string>
+    <string name="str_about">About ALC</string>
+    <string name="profile_name">Tchembé Martin</string>
+    <string name="avatar_content_description">Avatar</string>
+
+    <string name="profile_track">Track:     Android</string>
+    <string name="profile_country">Country:     Cameroon</string>
+    <string name="profile_email">Email:     martinxaviertchembe@gmail.com</string>
+    <string name="profile_phone">Phone Number:      +237 671 30 23 13</string>
+    <string name="profile_slack_uname">Slack Username:      @Martin</string>
+</resources>
